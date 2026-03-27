@@ -31,7 +31,7 @@ The application currently includes the following causes:
 - Flood relief for **Feni, Bangladesh**
 - Aid for those injured in the **Quota Movement**
 
-## 🛠️Tech Stack
+## 🛠️ Tech Stack
 
 - **HTML5** for page structure
 - **CSS3** for custom styling
