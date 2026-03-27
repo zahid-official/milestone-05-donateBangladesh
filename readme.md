@@ -11,7 +11,7 @@
   
 </div>
 
-## ✨Features
+## ✨ Features
 
 - Donate to three different causes from a single interface
 - Real-time balance deduction after each successful donation
@@ -23,7 +23,7 @@
 - Dedicated `Blog` page with FAQ accordion content
 - Responsive layout for mobile, tablet and desktop screens
 
-## 🪙Donation Campaigns
+## 🪙 Donation Campaigns
 
 The application currently includes the following causes:
 
@@ -40,7 +40,7 @@ The application currently includes the following causes:
 - **DaisyUI** for UI components like buttons, modal and accordion
 - **Google Fonts (Lexend)** for typography
 
-## 📄Pages
+## 📄 Pages
 
 ### 1. Home Page
 
@@ -72,7 +72,7 @@ The blog page contains a styled FAQ section covering:
    - A donation history item is created with the current date
    - A success modal is displayed
 
-## 📂Project Structure
+## 📂 Project Structure
 
 ```bash
 milestone-05/
@@ -130,7 +130,7 @@ This project demonstrates practical understanding of:
 - Improve date formatting for donation history entries
 - Add analytics or summary cards for total donations
 
-## 🌟Author
+## 🌟 Author
 
 <div align="center">
   <a href="https://github.com/zahid-official">
@@ -143,7 +143,7 @@ This project demonstrates practical understanding of:
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zahid-official)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zahid-web)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahid.official8@gmail.com)
-  
+
   <p>Built with passion and dedication to create scalable solutions</p>
 </div>
 
