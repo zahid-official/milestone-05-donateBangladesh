@@ -1,17 +1,26 @@
 # 🪙 Donate Bangladesh
 
-**Donate Bangladesh** is a simple and responsive donation web application built with **HTML**, **CSS**, **Tailwind CSS**, **DaisyUI**, and **vanilla JavaScript**. The project allows users to donate to multiple causes, track donation history instantly, and navigate to a separate FAQ/blog page for DOM-related questions and answers.
+**Donate Bangladesh** is a clean and responsive donation platform designed to support important humanitarian and social causes in Bangladesh. It brings together multiple donation campaigns, real-time balance updates, contribution history tracking and a dedicated FAQ section in one simple and user-friendly experience.
 
-This project focuses on DOM manipulation, event handling, conditional validation, dynamic UI updates, and clean frontend structure.
+<div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  </a>
+  <a href="https://daisyui.com/">
+    <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge" alt="DaisyUI" />
+  </a>
+</div>
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge)](https://daisyui.com/)
-
-
-## Features
+## ✨Features
 
 - Donate to three different causes from a single interface
 - Real-time balance deduction after each successful donation
@@ -21,9 +30,9 @@ This project focuses on DOM manipulation, event handling, conditional validation
 - Success confirmation modal after each valid donation
 - Toggle between `Donation` and `History` views
 - Dedicated `Blog` page with FAQ accordion content
-- Responsive layout for mobile, tablet, and desktop screens
+- Responsive layout for mobile, tablet and desktop screens
 
-## Donation Campaigns
+## 🪙Donation Campaigns
 
 The application currently includes the following causes:
 
@@ -31,23 +40,22 @@ The application currently includes the following causes:
 - Flood relief for **Feni, Bangladesh**
 - Aid for those injured in the **Quota Movement**
 
-## Tech Stack
+## 🛠️Tech Stack
 
 - **HTML5** for page structure
 - **CSS3** for custom styling
 - **JavaScript (Vanilla)** for DOM manipulation and app logic
 - **Tailwind CSS** via CDN for utility-first styling
-- **DaisyUI** for UI components like buttons, modal, and accordion
+- **DaisyUI** for UI components like buttons, modal and accordion
 - **Google Fonts (Lexend)** for typography
 
----
-## Pages
+## 📄Pages
 
 ### 1. Home Page
 
 The main page includes:
 
-- Navbar with logo, balance, and blog navigation
+- Navbar with logo, balance and blog navigation
 - Donation cards for three separate causes
 - Donation input fields and action buttons
 - Modal confirmation after successful donation
@@ -72,22 +80,19 @@ The blog page contains a styled FAQ section covering:
    - The main balance is reduced
    - A donation history item is created with the current date
    - A success modal is displayed
----
-## Project Structure
+
+## 📂Project Structure
 
 ```bash
 milestone-05/
-├── index.html
-├── style.css
-├── tailwind.config.js
-├── readme.md
-├── js/
-│   ├── script.js
-│   └── utility.js
-├── pages/
-│   ├── blog.html
-│   └── blog.js
-└── images/
+├── index.html         # Main donation page
+├── style.css          # Global custom styles
+├── js/                # JavaScript source files
+│   ├── script.js      # Main donation logic and interactions
+│   └── utility.js     # Helper functions
+├── pages/             # Additional pages
+│   └── blog.html      # FAQ / blog page
+└── images/            # Project image assets
 ```
 
 ## Key JavaScript Responsibilities
@@ -108,10 +113,7 @@ milestone-05/
 
 - Navigation from the blog page back to the home page
 
----
-
-
-## Learning Focus
+## 📚 Learning Focus
 
 This project demonstrates practical understanding of:
 
@@ -137,8 +139,7 @@ This project demonstrates practical understanding of:
 - Improve date formatting for donation history entries
 - Add analytics or summary cards for total donations
 
----
-## Author
+## 🌟Author
 
 <div align="center">
   <a href="https://github.com/zahid-official">
@@ -160,9 +161,6 @@ This project demonstrates practical understanding of:
   <p>Built with passion and dedication to create scalable solutions</p>
 </div>
 
----
-
-
 ## 🤝 Contributing
 
 Contributions make the project better for everyone. If you would like to improve **Donate Bangladesh**, your contributions are always welcome.
@@ -174,6 +172,5 @@ Contributions make the project better for everyone. If you would like to improve
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 ```
----
 
 <p align="center"><b>Donate Bangladesh</b><i> - Where every contribution brings hope closer to those who need it most.</i></p>
